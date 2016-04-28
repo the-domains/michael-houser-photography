@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Michael Houser Photography]]></title>
         <description><![CDATA[Michael Houser Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/michael-houser-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 18:25:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 17:46:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/michael-houser-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Welcome to Michael Houser Photography & Design.]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a2d9372-6a0e-4fb7-8733-b6b74af28d0d.jpg">]]></description>
-            <link>undefinedwelcome-to-michael-houser-photography-and-design/index.html</link>
+            <title><![CDATA[Welcome to]]></title>
+            <description><![CDATA[<article><h1>Welcome to</h1><p>Michael Houser Photography</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08c218c1ca4897b1856e909a14be1fb7a1773501.jpg"></article>]]></description>
+            <link>https://thegrid.ai/michael-houser-photography/welcome-to-michael-houser-photography-and-design/index.html</link>
             <guid isPermaLink="false">0d24a390-dc1e-4c05-9f78-cf7dc8f94b00</guid>
-            <pubDate>Wed, 20 Apr 2016 18:25:40 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2016 17:46:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
